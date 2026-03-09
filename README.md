@@ -6,7 +6,7 @@ The webpage for web design
 
 
 ## 🩺 About Me
-- 🏥 **Medical Instructor** in Surgical ICU with 30+ years of clinical experience.
+- 🏥 **Medical Instructor** in Medical ICU with 30+ years of clinical experience.
 - 🤖 **AI Researcher** focusing on Healthcare AI Agents & Clinical Decision Support.
 - 💻 Enthusiast in **Vibe Coding** with Python, Go, and JavaScript.
 - 🚀 Current Project: Developing an **ICU Infection Monitoring Agent** to analyze lab data & temperature trends.
