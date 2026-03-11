@@ -18,8 +18,8 @@ The webpage for web design trial
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=drchou1024&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[您的帳號]&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drchou1024&layout=compact&theme=radical)
 
 ## 📫 How to reach me
-- 🌐 [My Website](https://[您的帳號].github.io)
+- 🌐 [My Website](https://drchou1024.github.io)
 - 📝 [Technical Blog / Portfolio]
